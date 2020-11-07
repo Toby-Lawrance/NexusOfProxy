@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30626.31
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NexusofProxyLib", "NexusofProxyLib\NexusofProxyLib.csproj", "{3D1F1D7D-B168-45E1-9018-27D7BE53876C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDriver", "TestDriver\TestDriver.csproj", "{51CF5811-B1D9-4AE2-8534-658BAF76C5FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3D1F1D7D-B168-45E1-9018-27D7BE53876C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D1F1D7D-B168-45E1-9018-27D7BE53876C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D1F1D7D-B168-45E1-9018-27D7BE53876C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51CF5811-B1D9-4AE2-8534-658BAF76C5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CF5811-B1D9-4AE2-8534-658BAF76C5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CF5811-B1D9-4AE2-8534-658BAF76C5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CF5811-B1D9-4AE2-8534-658BAF76C5FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
